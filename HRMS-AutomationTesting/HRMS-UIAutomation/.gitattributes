@@ -1,0 +1,2 @@
+# Hide Reqnroll auto-generated files in PR diffs
+*.feature.cs linguist-generated=true

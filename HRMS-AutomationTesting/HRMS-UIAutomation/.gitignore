@@ -1,0 +1,2 @@
+# Ignore Reqnroll / SpecFlow auto-generated feature files
+*.feature.cs
