@@ -79,6 +79,11 @@ HRMS-Automation-Testing
 
 - Easily scalable for additional modules
 
+### Project Status
+- Portfolio automation framework validating real-world HRMS workflows
+   
+- Actively maintained and extended with additional scenarios and roles
+  
 ### Future Enhancements
 
 - API + UI hybrid testing
